@@ -1,6 +1,7 @@
 # Dashboard
 
 first install packeges with write **npm install** in terminal.
+
 then run the project with with write **npm start** in terminal.
 
 ## Preview
