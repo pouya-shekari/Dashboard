@@ -1,0 +1,12 @@
+.styleButton{
+    font-size: 1rem;
+    padding: 0.7rem 2rem;
+    background-color: whitesmoke;
+    cursor: pointer;
+    color: #58af9b;
+}
+
+.styleButton:hover , .styleButton:focus{
+    color: white;
+    background-color: #58af9b;
+}

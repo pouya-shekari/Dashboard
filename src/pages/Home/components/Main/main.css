@@ -1,0 +1,53 @@
+.main{
+    background-color: #58af9b !important;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    padding: 1rem;
+    margin-bottom: 5rem;
+}
+
+h{
+    font-size: 0.8rem!important;
+    color: white!important;
+}
+
+p{
+    font-size: 0.8rem!important;
+    line-height: 200%!important;
+    color: white!important;
+}
+
+.first , .second{
+    max-width: 40%;
+
+}
+
+.MainImage{
+    width: 25rem!important;
+    height: 15rem!important;
+}
+
+.buttons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.icons{
+    color: whitesmoke!important;
+    width: 100%!important;
+    display: flex;
+    justify-content: space-around;
+    background-color: #377c6d;
+}
+
+a{
+    color: black!important;
+}
+
+.icons a{
+    text-decoration: none!important;
+    color: whitesmoke!important;
+}

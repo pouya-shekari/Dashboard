@@ -1,0 +1,26 @@
+header{
+    height: 4rem;
+}
+
+.search_input {
+    font-size: 5px !important;
+}
+
+.uk-margin{
+    margin: 0 !important;
+}
+
+.uk-search{
+    width: 100% !important;
+}
+
+.uk-search-input{
+    width: 45rem!important;
+    border: none !important;
+    outline: none !important;
+}
+
+form{
+    padding: 0!important;
+    border-radius: 1rem!important;
+}

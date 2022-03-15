@@ -1,0 +1,11 @@
+.navbarHome{
+    background-color: whitesmoke;
+    height: 4rem;
+    display: flex;
+    align-items: center;
+
+}
+
+.navbarHome nav{
+    margin: 0 auto !important;
+}
